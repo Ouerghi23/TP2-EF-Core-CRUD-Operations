@@ -1,0 +1,486 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\views\\genre\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:views\\genre\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\views\\genre\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:views\\genre\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\views\\genre\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:views\\genre\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\views\\genre\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:views\\genre\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\views\\genre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:views\\genre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|c:\\users\\chayma ouerghi\\desktop\\ouerghi chaima\\tp2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906BD4B6-7C8F-400A-917E-495D075979F1}|TP2.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 218,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T11:18:06.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T11:17:39.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T11:17:03.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T11:16:29.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T11:15:52.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:03:28.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAA4wAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:02:43.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Controllers\\MovieController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA0wDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:58:16.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movie\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movie\\Create.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T10:57:09.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movie\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movie\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T10:56:38.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movie\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movie\\Details.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T10:56:01.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movie\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T10:54:54.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T10:54:04.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Genre\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Genre\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Genre\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Genre\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T10:38:39.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Genre\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Genre\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Genre\\Details.cshtml",
+              "RelativeToolTip": "Views\\Genre\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T10:38:06.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Genre\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Genre\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Genre\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Genre\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T10:37:13.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Genre\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Genre\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Genre\\Create.cshtml",
+              "RelativeToolTip": "Views\\Genre\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T10:36:19.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Genre\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Genre\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Views\\Genre\\Index.cshtml",
+              "RelativeToolTip": "Views\\Genre\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T10:34:22.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GenreController.cs",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "Controllers\\GenreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:26:00.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:21:49.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:18:03.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T10:08:51.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:00:43.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Models\\Genre.cs",
+              "RelativeToolTip": "Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:52:35.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:48:32.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Chayma Ouerghi\\Desktop\\Ouerghi Chaima\\TP2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:44:58.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
